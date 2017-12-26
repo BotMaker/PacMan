@@ -1,0 +1,20 @@
+ PacMan
+ 
+ This is a kid game like PacMan.
+ But you cannot eat the ghosts here.
+ You have to open treasure chests.
+ To open a treasure chest you need a key.
+ Collect up all gold and coins.
+ If you have done everything, then run to the escape door
+ Use the cursor keys for the movement of your hero.
+ Use the space bar to drop a bomb. 
+ You can play 37 levels.
+ 
+ Menu:  
+ use the arrow keys up/down/return.
+
+ Gareth Mc daid
+ Written in game maker
+ Time Taken 12hours
+ 
+ 
